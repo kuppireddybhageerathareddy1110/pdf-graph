@@ -84,4 +84,7 @@ cd backend && pytest tests/ -v
 
 ## License
 
-MIT — see [LICENSE](LICENSE)
+Apache — see [LICENSE](LICENSE)
+
+<img width="1900" height="957" alt="image" src="https://github.com/user-attachments/assets/d45f7aad-04bc-456c-b8b7-9d06d19526d4" />
+
