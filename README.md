@@ -7,6 +7,9 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.111-009688)](https://fastapi.tiangolo.com)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black)](https://nextjs.org)
 
+> https://pdf-graph.netlify.app/
+> 
+> https://pdf-graph.onrender.com/ 
 ## Pipeline
 
 ```
